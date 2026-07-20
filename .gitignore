@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db
+
+portfolio_customer_churn_dataset.csv
+exported_churn_data.csv
+
+# Local development notebooks not included in the portfolio commit
+Codex_working.ipynb
+Churn_Analysis.ipynb
+Copied.ipynb
+Roadmap.ipynb
+Untitled.ipynb
